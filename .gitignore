@@ -1,0 +1,48 @@
+# Arquivos de configuração
+*.ini
+*.cfg
+
+# Arquivos compilados
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de cache
+__pycache__/
+
+# Arquivos gerados
+*.pyc
+*.pyo
+
+# Logs e dados temporários
+*.log
+*.bak
+*.swp
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Dependências
+lib/
+libs/
+Library/
+target/
+dist/
+build/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de saída de teste
+.coverage
+.tox
+
+# Outros
+*.DS_Store
