@@ -13,6 +13,7 @@ __pycache__/
 # Arquivos gerados
 *.pyc
 *.pyo
+*.python-version
 
 # Logs e dados temporários
 *.log
@@ -20,6 +21,7 @@ __pycache__/
 *.swp
 
 # Virtual environments
+.venv/
 venv/
 env/
 ENV/
@@ -31,6 +33,7 @@ Library/
 target/
 dist/
 build/
+examples/
 
 # Arquivos de ambiente
 .env
